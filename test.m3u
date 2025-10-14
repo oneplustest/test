@@ -47,3 +47,6 @@ https://dogus-live.daioncdn.net/dmax/dmax.m3u8
 https://dogus-live.daioncdn.net/tlc/tlc.m3u8
 #EXTINF:-1 tvg-id="TRT BELGESEL HD.tr" tvg-logo="http://assets.tvcdn.net/1da7293b-5598-4e00-a5f8-3bd327af9467.png" "group-title="ALL" ,TRT Belgesel
 https://tv-trtbelgesel.medya.trt.com.tr/master.m3u8
+#EXTINF:-1 tvg-id="ATV HD.tr" tvg-logo="http://assets.tvcdn.net/1da7293b-5598-4e00-a5f8-3bd327af9467.png" "group-title="ALL" ,ATVYEDEK
+http://stream.tvcdn.net/ulusal/atv.m3u8
+
