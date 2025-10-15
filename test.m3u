@@ -40,9 +40,9 @@ https://raw.githubusercontent.com/tecotv2025/tecotv/refs/heads/main/playlist/CNB
 #EXTINF:-1 tvg-id="Bloomberg.tr" tvg-logo="http://assets.tvcdn.net/2a1808ad-733e-4223-a8b3-34be18ef21f9.png" "group-title="ALL" ,Bloomberg HT
 https://ciner.daioncdn.net/bloomberght/bloomberght.m3u8
 #EXTINF:-1 tvg-id="TEVE2 HD.tr" tvg-logo="http://assets.tvcdn.net/4cad68c0-fa2c-4b84-a1c2-1f0704eca7a4.png" "group-title="ALL" ,TEVE2
-https://demiroren-live.daioncdn.net/teve2/teve2.m3u8
+https://demiroren.daioncdn.net/teve2/teve2_720p.m3u8?&sid=7txhimf29vw8&app=6aab838a-437e-4a1b-bbd0-e30f79cdbbbd&ce=3
 #EXTINF:-1 tvg-id="DMAX HD.tr" tvg-logo="http://assets.tvcdn.net/32da9e04-0514-4e3c-b8e1-854f1fc175ed.png" "group-title="ALL" ,DMAX
-https://dogus-live.daioncdn.net/dmax/dmax.m3u8
+https://dogus.daioncdn.net/dmax/dmax_720p.m3u8?token=ZWV3THFjbFJFOTRWTHQveTJicTlqZWhndlRRbklTU1NJaytnVXFsM3FvYz0=&sid=7txhlruf4oz3&app=5a02c599-d17e-4982-9b04-090934d51af7&ce=3
 #EXTINF:-1 tvg-id="TLC.tr" tvg-logo="http://assets.tvcdn.net/9871d781-b961-45cc-a287-c304f02bef1d.png" "group-title="ALL" ,TLC
 https://dogus-live.daioncdn.net/tlc/tlc.m3u8
 #EXTINF:-1 tvg-id="CNNTurk.tr" tvg-logo="https://www.lyngsat.com/logo/tv/cc/cnn_turk.png" "group-title="ALL" ,CNN Turk
