@@ -45,6 +45,8 @@ https://demiroren-live.daioncdn.net/teve2/teve2.m3u8
 https://dogus-live.daioncdn.net/dmax/dmax.m3u8
 #EXTINF:-1 tvg-id="TLC.tr" tvg-logo="http://assets.tvcdn.net/9871d781-b961-45cc-a287-c304f02bef1d.png" "group-title="ALL" ,TLC
 https://dogus-live.daioncdn.net/tlc/tlc.m3u8
+#EXTINF:-1 tvg-id="CNNTurk.tr" tvg-logo="https://www.lyngsat.com/logo/tv/cc/cnn_turk.png" "group-title="ALL" ,CNN Turk
+https://live.duhnet.tv//S2/HLS_LIVE/cnnturknp/track_2_550/playlist.m3u8?&live=true&app=com.cnnturk&st=w4Ruul296OZBIzWP210wLQ&e=1760532868
 #EXTINF:-1 tvg-id="TRT BELGESEL HD.tr" tvg-logo="http://assets.tvcdn.net/1da7293b-5598-4e00-a5f8-3bd327af9467.png" "group-title="ALL" ,TRT Belgesel
 https://tv-trtbelgesel.medya.trt.com.tr/master.m3u8
 #EXTINF:-1 tvg-id="ATV HD.tr" tvg-logo="http://assets.tvcdn.net/89a47b4b-5d20-4248-9f4c-a3d2756072dd.png" "group-title="ALL" ,ATVYEDEK
