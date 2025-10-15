@@ -44,7 +44,7 @@ https://demiroren.daioncdn.net/teve2/teve2_720p.m3u8?&sid=7txhimf29vw8&app=6aab8
 #EXTINF:-1 tvg-id="DMAX HD.tr" tvg-logo="http://assets.tvcdn.net/32da9e04-0514-4e3c-b8e1-854f1fc175ed.png" "group-title="ALL" ,DMAX
 https://dogus.daioncdn.net/dmax/dmax_720p.m3u8?token=ZWV3THFjbFJFOTRWTHQveTJicTlqZWhndlRRbklTU1NJaytnVXFsM3FvYz0=&sid=7txhlruf4oz3&app=5a02c599-d17e-4982-9b04-090934d51af7&ce=3
 #EXTINF:-1 tvg-id="TLC.tr" tvg-logo="http://assets.tvcdn.net/9871d781-b961-45cc-a287-c304f02bef1d.png" "group-title="ALL" ,TLC
-https://dogus-live.daioncdn.net/tlc/tlc.m3u8
+https://dogus.daioncdn.net/tlc/tlc_720p.m3u8?token=dUtod2ZQZW1lcWJQcVk3dXEvYkZQSWRYem1NZEdtODhrMkNuKys4VG5EMD0=&sid=7txhor8qysi8&app=1aca0aa1-06e3-41ff-a8e5-38d7df475469&ce=3
 #EXTINF:-1 tvg-id="CNNTurk.tr" tvg-logo="https://www.lyngsat.com/logo/tv/cc/cnn_turk.png" "group-title="ALL" ,CNN Turk
 https://live.duhnet.tv//S2/HLS_LIVE/cnnturknp/track_2_550/playlist.m3u8?&live=true&app=com.cnnturk&st=w4Ruul296OZBIzWP210wLQ&e=1760532868
 #EXTINF:-1 tvg-id="TRT BELGESEL HD.tr" tvg-logo="http://assets.tvcdn.net/1da7293b-5598-4e00-a5f8-3bd327af9467.png" "group-title="ALL" ,TRT Belgesel
