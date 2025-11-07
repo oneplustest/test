@@ -6,7 +6,7 @@ https://demiroren.daioncdn.net/kanald/kanald_720p.m3u8?&sid=7ttuk9p6axpc&app=da2
 #EXTINF:-1 tvg-id="STAR TV HD.tr" tvg-logo="http://assets.tvcdn.net/0c5204fb-e613-4084-b300-8cdcc46309f9.png" "group-title="ALL" ,Star TV
 https://dogus.daioncdn.net/startv/startv_720p.m3u8?=&sid=7ttrklwp56ni&app=a20ac41e-bdc3-4aa1-934d-26b484480ac9&ce=3
 #EXTINF:-1 tvg-id="ATV HD.tr" tvg-logo="http://assets.tvcdn.net/89a47b4b-5d20-4248-9f4c-a3d2756072dd.png" "group-title="ALL" ,ATV
-http://116.202.238.88/ATV_TR/tracks-v1a1/index.m3u8
+https://rnttwmjcin.turknet.ercdn.net/lcpmvefbyo/atv/atv_480p.m3u8
 #EXTINF:-1 tvg-id="SHOW TV HD.tr" tvg-logo="http://assets.tvcdn.net/9d873881-bb5e-40f0-88db-8c47aa215e5a.png" "group-title="ALL" ,Show TV
 https://ciner.daioncdn.net/showtv/showtv_480p.m3u8?ex=1664766175&st=RBzhSuGauna0OGld-DJUVA&tv=1&sid=7ttrth5mzrhp&app=4bc856ef-4c68-4a94-bc87-37dfaaa66558&ce=3
 #EXTINF:-1 tvg-id="NOW.tr" tvg-logo="http://assets.tvcdn.net/80eb8816-1855-41f5-9002-7a05cc93fe4f.png" "group-title="ALL" ,Now TV
@@ -50,4 +50,4 @@ https://live.duhnet.tv//S2/HLS_LIVE/cnnturknp/track_2_550/playlist.m3u8?&live=tr
 #EXTINF:-1 tvg-id="TRT BELGESEL HD.tr" tvg-logo="http://assets.tvcdn.net/1da7293b-5598-4e00-a5f8-3bd327af9467.png" "group-title="ALL" ,TRT Belgesel
 https://tv-trtbelgesel.medya.trt.com.tr/master.m3u8
 #EXTINF:-1 tvg-id="ATV HD.tr" tvg-logo="http://assets.tvcdn.net/89a47b4b-5d20-4248-9f4c-a3d2756072dd.png" "group-title="ALL" ,ATVYEDEK
-https://trkvz.daioncdn.net/atv/atv_480p.m3u8?e=1760566138&st=YHcxKvA6gno8Mk-cOYgaPQ&sid=7txfkwt3wfap&app=d1ce2d40-5256-4550-b02e-e73c185a314e&ce=3
+http://116.202.238.88/ATV_TR/tracks-v1a1/index.m3u8
